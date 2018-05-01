@@ -1,0 +1,125 @@
+Name,Predicted Playoffs,Accuracy,Cumulative Games
+Ducks,Playoffs,Positive,82
+Coyotes,Playoffs,False Positive,82
+Bruins,Playoffs,Positive,82
+Sabres,DNQ,Positive - DNQ,82
+Hurricanes,Playoffs,False Positive,82
+Blue Jackets,Playoffs,Positive,82
+Flames,Playoffs,False Positive,82
+Blackhawks,Playoffs,False Positive,82
+Avalanche,Playoffs,Positive,82
+Stars,Playoffs,False Positive,82
+Red Wings,Playoffs,False Positive,82
+Oilers,Playoffs,False Positive,82
+Panthers,Playoffs,False Positive,82
+Kings,Playoffs,Positive,82
+Wild,Playoffs,Positive,82
+Canadiens,Playoffs,False Positive,82
+Devils,Playoffs,Positive,82
+Predators,Playoffs,Positive,82
+Islanders,Playoffs,False Positive,82
+Rangers,DNQ,Positive - DNQ,82
+Senators,DNQ,Positive - DNQ,82
+Flyers,Playoffs,Positive,82
+Penguins,Playoffs,Positive,82
+Sharks,Playoffs,Positive,82
+Blues,Playoffs,False Positive,82
+Lightning,Playoffs,Positive,82
+Maple Leafs,Playoffs,Positive,82
+Canucks,DNQ,Positive - DNQ,82
+Golden Knights,Playoffs,Positive,82
+Jets,Playoffs,Positive,82
+Capitals,Playoffs,Positive,82
+Ducks,Playoffs,False Positive,60
+Coyotes,Playoffs,False Positive,60
+Bruins,Playoffs,False Positive,60
+Sabres,DNQ,Positive - DNQ,60
+Hurricanes,Playoffs,False Positive,60
+Blue Jackets,Playoffs,False Positive,60
+Flames,Playoffs,False Positive,60
+Blackhawks,Playoffs,False Positive,60
+Avalanche,Playoffs,False Positive,60
+Stars,Playoffs,False Positive,60
+Red Wings,Playoffs,False Positive,60
+Oilers,Playoffs,False Positive,60
+Panthers,Playoffs,False Positive,60
+Kings,Playoffs,False Positive,60
+Wild,Playoffs,False Positive,60
+Canadiens,Playoffs,False Positive,60
+Devils,DNQ,Positive - DNQ,60
+Predators,Playoffs,False Positive,60
+Islanders,DNQ,Positive - DNQ,60
+Rangers,DNQ,Positive - DNQ,60
+Senators,DNQ,Positive - DNQ,60
+Flyers,Playoffs,False Positive,60
+Penguins,Playoffs,False Positive,60
+Sharks,Playoffs,False Positive,60
+Blues,Playoffs,False Positive,60
+Lightning,Playoffs,False Positive,60
+Maple Leafs,Playoffs,False Positive,60
+Canucks,DNQ,Positive - DNQ,60
+Golden Knights,Playoffs,False Positive,60
+Jets,Playoffs,False Positive,60
+Capitals,Playoffs,False Positive,60
+Ducks,Playoffs,False Positive,40
+Coyotes,Playoffs,False Positive,40
+Bruins,Playoffs,False Positive,40
+Sabres,DNQ,Positive - DNQ,40
+Hurricanes,Playoffs,False Positive,40
+Blue Jackets,Playoffs,False Positive,40
+Flames,DNQ,Positive - DNQ,40
+Blackhawks,Playoffs,False Positive,40
+Avalanche,Playoffs,False Positive,40
+Stars,Playoffs,False Positive,40
+Red Wings,DNQ,Positive - DNQ,40
+Oilers,DNQ,Positive - DNQ,40
+Panthers,Playoffs,False Positive,40
+Kings,DNQ,Positive - DNQ,40
+Wild,Playoffs,False Positive,40
+Canadiens,DNQ,Positive - DNQ,40
+Devils,DNQ,Positive - DNQ,40
+Predators,Playoffs,False Positive,40
+Islanders,DNQ,Positive - DNQ,40
+Rangers,DNQ,Positive - DNQ,40
+Senators,DNQ,Positive - DNQ,40
+Flyers,Playoffs,False Positive,40
+Penguins,Playoffs,False Positive,40
+Sharks,Playoffs,False Positive,40
+Blues,Playoffs,False Positive,40
+Lightning,Playoffs,False Positive,40
+Maple Leafs,Playoffs,False Positive,40
+Canucks,DNQ,Positive - DNQ,40
+Golden Knights,Playoffs,False Positive,40
+Jets,Playoffs,False Positive,40
+Capitals,Playoffs,False Positive,40
+Ducks,Playoffs,False Positive,20
+Coyotes,Playoffs,False Positive,20
+Bruins,DNQ,Positive - DNQ,20
+Sabres,DNQ,Positive - DNQ,20
+Hurricanes,DNQ,Positive - DNQ,20
+Blue Jackets,Playoffs,False Positive,20
+Flames,DNQ,Positive - DNQ,20
+Blackhawks,DNQ,Positive - DNQ,20
+Avalanche,DNQ,Positive - DNQ,20
+Stars,DNQ,Positive - DNQ,20
+Red Wings,DNQ,Positive - DNQ,20
+Oilers,DNQ,Positive - DNQ,20
+Panthers,Playoffs,False Positive,20
+Kings,DNQ,Positive - DNQ,20
+Wild,DNQ,Positive - DNQ,20
+Canadiens,DNQ,Positive - DNQ,20
+Devils,DNQ,Positive - DNQ,20
+Predators,Playoffs,False Positive,20
+Islanders,DNQ,Positive - DNQ,20
+Rangers,DNQ,Positive - DNQ,20
+Senators,DNQ,Positive - DNQ,20
+Flyers,DNQ,Positive - DNQ,20
+Penguins,DNQ,Positive - DNQ,20
+Sharks,Playoffs,False Positive,20
+Blues,Playoffs,False Positive,20
+Lightning,DNQ,Positive - DNQ,20
+Maple Leafs,Playoffs,False Positive,20
+Canucks,DNQ,Positive - DNQ,20
+Golden Knights,DNQ,Positive - DNQ,20
+Jets,Playoffs,False Positive,20
+Capitals,Playoffs,False Positive,20
