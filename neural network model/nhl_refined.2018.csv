@@ -1,0 +1,32 @@
+﻿Name,Playoffs,Results
+Ducks,1,Pos
+Coyotes,0,Neg
+Bruins,1,Pos
+Sabres,0,Neg
+Hurricanes,0,Neg
+Blue Jackets,0,FalseNeg
+Flames,0,Neg
+Blackhawks,1,FalsePos
+Avalanche,1,Pos
+Stars,1,FalsePos
+Red Wings,0,Neg
+Oilers,0,Neg
+Panthers,1,FalsePos
+Kings,0,FalseNeg
+Wild,1,Pos
+Canadiens,0,Neg
+Devils,0,FalseNeg
+Predators,1,Pos
+Islanders,0,Neg
+Rangers,0,Neg
+Senators,0,Neg
+Flyers,1,Pos
+Penguins,1,Pos
+Sharks,1,Pos
+Blues,1,FalsePos
+Lightning,1,Pos
+Maple Leafs,1,Pos
+Canucks,0,Neg
+Golden Knights,1,Pos
+Jets,1,Pos
+Capitals,1,Pos
