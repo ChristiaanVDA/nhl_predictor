@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<title>Project_3</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+/* Full height image header */
+
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+</style>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-black w3-card" id="myNavbar">
+    <!-- Right-sided navbar links -->
+    <div class="w3-right w3-hide-small">
+      <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
+      <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> STATISTICS</a>
+      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-video-camera"></i> OUTCOME</a>
+    </div>
+    <div class="w3-left w3-hide-small">
+      <a href="#home" class="w3-bar-item w3-button"><i class="fa fa-home"></i> HOME</a>
+    </div>
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="w3_open()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+</div>
+
+<!-- Header with full-height image -->
+<header class="bgimg-1 w3-display-container w3-grayscale-max" id="home">
+  <div class="w3-display-left w3-grayscale-max" style="padding:48px">
+    <p><a href="#about" class="w3-button w3-opacity w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about NHL Playoff Predictions</a></p>
+  </div>
+  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+  </div>
+</header>
+
+<!-- NHL Opener: Start talking in this pg -->
+<div class="w3-container w3-grayscale-max" style="padding:68px 16px" id="about">
+  <h3 class="w3-center">NHL TEAM PLAYOFF PREDICTIONS</h3>
+
+  <div class="w3-row-padding w3-center" style="margin-top:64px">
+    <div class="w3-quarter">
+      <i class="fa fa-desktop fa-spin fa-3x fa-fw w3-jumbo"></i>
+      <p class="w3-large">Defining Problem</p>
+      <p> Predicting Playoff Teams</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-wrench fa-spin fa-3x fa-fw w3-jumbo"></i>
+      <i class="fa fa-cog fa-spin fa-3x fa-fw w3-jumbo"></i></a>
+      <p class="w3-large">Analysis</p>
+      <p>How we obtained our data and how linear regression helped us select it.</p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-trophy fa-spin fa-3x fa-fw w3-jumbo"></i></a>
+      <p class="w3-large">Machine Learning: Classification problem using Neural Network</p>
+      <p>NN: Larger dataset for optimization. </p>
+    </div>
+    <div class="w3-quarter">
+      <i class="fa fa-subway fa-spin fa-3x fa-fw w3-jumbo"></i>
+      <p class="w3-large">2018 Playoff Outcome</p>
+      <p>Predictive Playoff Team winners vs Actual Playoff Team winners</p>
+    </div>
+  </div>
+</div>
+<div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
+  <div class="w3-quarter">
+    <span class="w3-xxxlarge">31</span>
+    <br>NHL Teams
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxxlarge">8</span>
+    <br>NHL Eastern Conference Teams
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxxlarge">8</span>
+    <br>NHL Western Conference Teams
+  </div>
+  <div class="w3-quarter">
+    <span class="w3-xxxlarge">16</span>
+    <br>NHL Playoff Teams
+  </div>
+</div>
+
+<!-- Team Pictures -->
+<div class="w3-container"style="padding:50px 14px" id="team">
+  <h3 class="w3-center">THE TEAM</h3>
+  <p class="w3-center w3-large">The Future Data Scientist</p>
+  <div class="w3-row-padding " style="margin-top:64px">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="images/CVan.gif" alt="Christiaan" style="width:100%">
+        <div class="w3-container">
+          <h3>Christiaan Van den Akker</h3>
+          <p>Christiaan is a father of two and a fan of the LA Kings. Christiaan gravitated to data science from a background in service operations. He's passionate about uncovering the story below the numbers.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="images/JIMCEL.jpg" alt="Jimcel" style="width:100%">
+        <div class="w3-container">
+          <h3>Jimcel Tangonan</h3>
+          <p>Jimcel is deeply curious, passionate, and diligent in data analytics. His passion led him to strengthen his analytical, statistical, and programming skills through team collaborations.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="images/Mel.gif" alt="Melanye" style="width:100%" >
+        <div class="w3-container">
+          <h3>Melanye Taylor</h3>
+          <p>Melanye found SQL to be her strongest competency skill that helped her develop strong reporting skills in her current leadership role for The Music Center.</p>
+        </div>
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card">
+        <img src="images/OM.jpg" alt="Omar" style="width:100%">
+        <div class="w3-container">
+          <h3>Omar Millares</h3>
+          <p>Omar Millares is an experienced business/data analyst in healthcare. His drive to learn and master data science technologies helped developed a better understanding while finding value out of data.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Work/Analysis/Calculations/ -->
+<div class="w3-container w3-light-grey" style="padding:60px 16px" id="work">
+  <h3 class="w3-center">STATISTICS</h3>
+  <p class="w3-center w3-large">Machine Learning Statistics</p>
+
+  <P>Sensitivity with Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-black w3-center" style="width:81%">81%</div>
+  </div>
+  <P>Sensitivity without Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-dark-grey w3-center" style="width:100%">100%</div>
+  </div>
+  <P>Specificity with Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-black w3-center" style="width:73%">73%</div>
+  </div>
+  <P>Specificity without Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-dark-grey w3-center" style="width:26%">26%</div>
+  </div>
+  <P>F1 score with Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-black w3-center" style="width:78%">78%</div>
+  </div>
+  <P>F1 score without Optimization</p>
+  <div class="w3-grey">
+    <div class="w3-container w3-dark-grey w3-center" style="width:74%">74%</div>
+  </div>
+    <P>
+    <br>
+    <br>
+    <br>
+    <br>
+    </p>
+
+<!-- The end of html. Start of prezi -->
+  <div class="w3-container w3-dark-grey" style="padding:128px 16px" id="pricing">
+    <div class="w3-row-padding">
+      <div class="w3-col m6">
+        <p><a href="https://prezi.com/gq2yis26fch0/nhl-playoff-team/" class="w3-button w3-black"><i class="fa fa-th"> </i> View Results</a></p>
+      </div>
+      <div class="w3-col m6">
+        <font size="+40">Can you guess what team goes to the playoffs?</font>
+        <!--<img class="w3-image w3-round-large" src="image.png" width="999" height="500"> -->
+      </div>
+    </div>
+  </div>
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-64">
+  <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+
+</footer>
+
+</body>
+</html>
