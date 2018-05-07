@@ -1,0 +1,61 @@
+body {
+    background-color: rgb(216,216,226);
+    font-size: 15px;
+    }
+hr {
+    height: 4px;
+    margin-left: 15px;
+    margin-bottom:-3px;
+  }
+head3 {
+    margin-top: 8px;
+    margin-bottom: 6px;
+} 
+.box {
+    min-height: 50px;
+    padding: 10px;
+    margin: 0px;
+    font-weight: 400;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #777777;
+  }
+
+.white {
+    background: white;
+  }
+
+h4 {
+    color: rgb(8, 88, 206);
+    } 
+img.smallLandscape {
+    width: 169px;
+    height: 119px;
+    padding: 5px, 5px, 5px, 5px;}
+img.smallMedLandscape {
+    width: 180px;
+    height: 127px;
+    padding: 5px, 5px, 5px, 5px;}
+img.mediumLandscape {
+    width: 203px;
+    height: 143px;
+    padding: 5px 5px 5px 5px;}
+img.medLargeLandscape {
+    width: 256px;
+    height: 180px;
+    padding: 5px 5px 0px 5px;}
+img.largeLandscape {
+    width: 338px;
+    height: 238px;
+    padding: 5px 5px 5px 5px;}
+img.largerLandscape {
+    width: 406px;
+    height: 286px;
+    padding: 5px 5px 5px 5px;}
+img.hugeLandscape {
+    width: 674px;
+    height: 475px;
+    padding: 5px 5px 5px 5px;}
+
+
+
